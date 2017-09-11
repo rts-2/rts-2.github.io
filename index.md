@@ -15,7 +15,9 @@ looking to obtain a position at a software institution or company for Summer 201
 
 # [](#header-1)Proficiencies
 Advanced knowledge in Python, Java, Solidity, C++, Android, and Javascript
+
 Proficient in C, golang, nodejs, and Perl
+
 Basic Knowledge of Rust, Tensorflow, and Nim 
 
 # [](#header-1)Professional Experience
