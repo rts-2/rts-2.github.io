@@ -4,7 +4,7 @@ looking to obtain a position at a software institution or company for Summer 201
 
 
 
-![alt text](https://github.com/rts-2/rts-2.github.io/blob/master/photo.jpg "Dis me")
+![...](https://github.com/rts-2/rts-2.github.io/blob/master/photo.jpg)
 
 
 
