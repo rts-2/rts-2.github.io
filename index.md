@@ -3,6 +3,12 @@ I am a computer science student with a focus on blockchain initiatives, big data
 looking to obtain a position at a software institution or company for Summer 2018.
 
 
+
+![alt text](https://github.com/rts-2/rts-2.github.io/blob/master/photo.jpg "Dis me")
+
+
+
+
 # [](#header-1)Research Papers & Projects
 2017 - __Research Paper  on Primordial Nucleosynthesis of Beryllium__ (R.T. Scherrer & R.J. Scherrer, Physical Review D, Submitted): https://arxiv.org/abs/1707.03852
 
