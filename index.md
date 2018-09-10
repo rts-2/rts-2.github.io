@@ -4,7 +4,6 @@ looking to obtain a position at a software institution or company for Summer 201
 
 
 
-![...](https://github.com/rts-2/rts-2.github.io/blob/master/photo.jpg)
 
 
 
@@ -37,4 +36,4 @@ __Research Assistant, United States Naval Observatory__ (May 2015 - August 2015)
 
 
 # [](#header-1)Resume
-<a href="resume.pdf">Download PDF</a>
+<a href="Richard Scherrer Resume 2019.pdf">Download PDF</a>
