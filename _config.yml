@@ -1,4 +1,4 @@
-remote_theme: jekyll-theme-mutter
+remote_theme: "mmistakes/jekyll-theme-basically-basic"
 title: Richard Scherrer
 description: I'm a CS & Astronomy undergraduate at the University of Illinois, Urbana Champaign.
 show_downloads: false
