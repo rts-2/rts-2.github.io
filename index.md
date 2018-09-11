@@ -13,9 +13,9 @@ I am a computer science student at the University of Illinois, Urbana-Champaign 
 
 # [](#header-1)Professional Experience
 
-__Frontend Internship for Fulcrum GT__ (May 2018 - August 2018)
+__Frontend Internship, Fulcrum GT__ (May 2018 - August 2018)
 
-__Backend Internship for Hashed Health, LLC__ (July 2017 - August 2017)
+__Backend Internship, Hashed Health, LLC__ (July 2017 - August 2017)
 
 __Research Internship, Vanderbilt Institute for Integrative Biosystems Research and Education__ (May 2016 - August 2016)
 
