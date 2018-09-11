@@ -1,4 +1,4 @@
-remote_theme: broccolini/swiss
+theme: jekyll-sleek
 theme_color: blue
 title: Richard Scherrer
 description: I'm a CS & Astronomy undergraduate at the University of Illinois, Urbana Champaign.
