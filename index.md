@@ -1,10 +1,15 @@
 # [](#header-1)Focus
-I am a computer science student at the University of Illinois, Urbana-Champaign with varied experience in fields ranging from computational legal work to big data analysis. I’m looking to obtain a position at a software institution or company for the summer of 2019.
+I am a computer science student at the University of Illinois, Urbana-Champaign, with varied experience in
+fields ranging from computational legal work and natural language processing, to big data analysis and applied astronomical research.
 
-# [](#header-1)Research Papers & Projects
-2017 - __Research Paper  on Primordial Nucleosynthesis of Beryllium__ (R.T. Scherrer & R.J. Scherrer, Physical Review D, Submitted): https://arxiv.org/abs/1707.03852
+# [](#header-1)Research Papers & Academic Positions
+2017 - __Big Bang Nucleosynthesis with Stable 8Be and the Primordial Lithium Problem__ (R.T. Scherrer & R.J. Scherrer, Physical Review D, In Press): https://arxiv.org/abs/1707.03852
+
+2019 - __Teaching Assistant for CS 196__ (Freshman Honors): I was the project manager for a small group of freshmen, who created their own application (a stock market analysis tool) before the end of the
+semester.
 
 # [](#header-1)Professional Experience
+__Summer Analyst, Deutsche Bank AG__ (June 2019 - August 2019)
 
 __Frontend Internship, Fulcrum GT__ (May 2018 - August 2018)
 
